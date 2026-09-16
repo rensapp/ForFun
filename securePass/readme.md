@@ -9,5 +9,3 @@ The vault script uses the cryptography library to keep things encrypted. You'll 
 
 ```bash
 pip install cryptography
-
-pass:hello
